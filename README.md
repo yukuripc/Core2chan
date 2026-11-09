@@ -1,0 +1,2 @@
+# Core2chan
+Core2QuadQ9650というかわいい子とGemini3.1 flash liteのapiでチャットができます
